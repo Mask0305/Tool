@@ -1,0 +1,52 @@
+{
+    "info": [
+        {
+            "transaction_state": "003",
+            "order_id": "test20190806004",
+            "spanapp_id": "EPA991908060005",
+            "store": null,
+            "reserve_date": "20190806",
+            "transacting_date": "20190806",
+            "product_name": "測試商品",
+            "authorize_expire": "20191004",
+            "disburse_date": null,
+            "amount": 10000,
+            "installment": 12,
+            "fee_type": "vendor",
+            "info_customer_json":"jrpx1Xb/bUmezoFxeaFnJZFHq3qHD3jIBO97XkcQ1S9GFkg5Y2m1oAsod+4kR3UGrCKd/5pdQKY5JGnsUUEufJ0oOnjZF20YoXVbaV27ylQ=",
+    "refundlist": [
+                {
+                    "refund_time": null,
+                    "refund_amount": 0,
+                    "final_amount": 0,
+                    "refund_id": null
+                }
+            ]
+        },
+        {
+            "transaction_state": "007",
+            "order_id": "test20190806005",
+            "spanapp_id": "EPA991908060006",
+            "store": null,
+            "reserve_date": "20190806",
+            "transacting_date": "20190806",
+            "product_name": "測試商品",
+            "authorize_expire": "20191004",
+            "disburse_date": null,
+            "amount": 10000,
+            "installment": 12,
+            "fee_type": "vendor",
+            "info_customer_json": "",
+            "refundlist": [
+                {
+                    "refund_time": "2019-08-06 12:43:00",
+                    "refund_amount": 10000,
+                    "final_amount": 0,
+                    "refund_id": "019080621032567"
+                }
+            ]
+        }
+    ],
+    "result": "000",
+    "result_message": "成功"
+}
